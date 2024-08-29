@@ -60,8 +60,10 @@ To run this project locally, follow these steps:
 After installation, you can run the Jupyter notebooks provided to explore the data, train models, and make predictions. The main notebook for the project is `Gemstone_Price_Prediction.ipynb`.
 
 To start the Jupyter notebook server, run:
-   ```bash
+   ``bash
    jupyter notebook
+Open the Gemstone_Price_Prediction.ipynb notebook and follow the instructions to run the cells.
+
 
 ## Modeling
 
