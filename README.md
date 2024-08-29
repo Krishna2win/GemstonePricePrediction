@@ -47,6 +47,43 @@ To run this project locally, follow these steps:
    cd GemstonePricePrediction
 
 2. Create and activate a virtual environment (optional but recommended):
+   ```bash
    python -m venv venv
    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
+## Usage
+
+After installation, you can run the Jupyter notebooks provided to explore the data, train models, and make predictions. The main notebook for the project is `Gemstone_Price_Prediction.ipynb`.
+
+To start the Jupyter notebook server, run:
+```bash
+jupyter notebook
+
+## Modeling
+
+The project explores various machine learning models, including:
+
+- **Linear Regression**
+- **Decision Trees**
+- **Random Forest**
+- **XGBoost**
+
+The best model is selected based on performance metrics such as R-squared, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE).
+
+## Results
+
+The final model achieved a good performance with an R-squared value of `X.XX`, MAE of `Y.YY`, and RMSE of `Z.ZZ`. These metrics indicate that the model can predict gemstone prices with reasonable accuracy.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or questions, please contact [Shrikrishna Vyas](mailto:shrikrishnavyas111@example.com).
+
 
