@@ -45,3 +45,8 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Krishna2win/GemstonePricePrediction.git
    cd GemstonePricePrediction
+
+2. Create and activate a virtual environment (optional but recommended):
+   python -m venv venv
+   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+
