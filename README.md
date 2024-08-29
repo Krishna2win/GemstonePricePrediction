@@ -10,7 +10,6 @@ Welcome to the Gemstone Price Prediction project! This repository contains the c
 - [Usage](#usage)
 - [Modeling](#modeling)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -82,6 +81,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or questions, please contact [Shrikrishna Vyas](mailto:shrikrishnavyas111@example.com).
+For any inquiries or questions, please contact [Shrikrishna Vyas] (mailto: shrikrishnavyas111@example.com ).
 
 
