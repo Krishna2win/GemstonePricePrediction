@@ -73,7 +73,14 @@ The best model is selected based on performance metrics such as R-squared, Mean 
 
 ## Results
 
-The final model achieved a good performance with an R-squared value of `X.XX`, MAE of `Y.YY`, and RMSE of `Z.ZZ`. These metrics indicate that the model can predict gemstone prices with reasonable accuracy.
+The final models achieved the following performance metrics:
+
+| Model               | Mean Absolute Error (MAE) | Mean Squared Error (MSE) | R-squared (R²) |
+|---------------------|----------------------------|--------------------------|----------------|
+| **Linear Regression** | 0.0285                     | 0.0014                   | 0.884          |
+
+The **Random Forest** model was selected as the best model due to its lowest MAE and MSE, and highest R-squared value.
+
 
 ## License
 
