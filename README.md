@@ -79,7 +79,7 @@ The final models achieved the following performance metrics:
 |---------------------|----------------------------|--------------------------|----------------|
 | **Linear Regression** | 0.0285                     | 0.0014                   | 0.884          |
 
-The **Random Forest** model was selected as the best model due to its lowest MAE and MSE, and highest R-squared value.
+The **Linear Regression** model was selected as the best model due to its lowest MAE and MSE, and highest R-squared value.
 
 
 ## License
